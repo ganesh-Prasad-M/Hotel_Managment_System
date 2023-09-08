@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\bin\Debug\Hotel Management system.exe.config
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\bin\Debug\Hotel Management system.exe
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\bin\Debug\Hotel Management system.pdb
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel_Management_system.Form1.resources
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel_Management_system.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.exe
+C:\Users\LENOVO\Desktop\Hotel M S\Hotel Management system\Hotel Management system\obj\Debug\Hotel Management system.pdb
